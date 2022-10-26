@@ -1,0 +1,9 @@
+{
+  "RealTime": {
+    "RealTimeUrl": "https://localhost/api/events"
+  },
+  "Authentication": {
+    "Username": "admin",
+    "Password": "admin"
+  }    
+}
